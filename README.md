@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Active_Development-yellow?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11+-blue?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-High_Performance-009688?style=flat-square)
 
-###The mechanism
+### The mechanism
 Literary Pharmacy is not a blog; it is a **prescriptive engine**. It operates on the premise that specific literature acts as a pharmacological intervention for specific cognitive and emotional states.
 
 **The main loop:**
